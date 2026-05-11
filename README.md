@@ -1,11 +1,3 @@
-Harika bir fikir kral! Projeyi GitHub'a yüklerken, arkasındaki mühendisliği anlatan profesyonel bir `README.md` dosyası projenin vitrinidir.
-
-Verdiğin şablonu alıp, bugün seninle adım adım inşa ettiğimiz bu **RAG tabanlı İSTE Mevzuat Sistemine** göre uyarladım. Ekran resmi kısımlarını çıkardım ve doğrudan GitHub'a kopyalayıp yapıştırabileceğin markdown formatında hazırladım.
-
-İşte projenin README dosyası:
-
----
-
 # 🏛️ İSTE Akıllı Mevzuat Asistanı (RAG Platformu)
 
 İSTE Akıllı Mevzuat Asistanı, İskenderun Teknik Üniversitesi (İSTE) öğrencileri ve personeli için yönetmelik ve mevzuat sorgulama süreçlerini hızlandırmak amacıyla geliştirilmiş, **Retrieval-Augmented Generation (RAG)** mimarisine sahip yapay zeka tabanlı bir platformdur.
